@@ -5,6 +5,7 @@ This repository contains an existing code sample for MLH fellowship.
 ### Language: C++
 This is an interactive gun shop management system which uses file handling and concepts of OOP to carry out purchases.
 It also includes some animations.
+[Original repo](https://github.com/Psycho-Pirate/Ammu-Nation)
 
 ## Sympy PRs
 ### Language: Python, RST
