@@ -9,4 +9,4 @@ It also includes some animations.
 
 ## Sympy PRs
 ### Language: Python, RST
-This contains some of the contributions and bug fixes I did for SYMPY.
+This contains some of the contributions and bug fixes I did for [SYMPY](https://github.com/sympy/sympy).
