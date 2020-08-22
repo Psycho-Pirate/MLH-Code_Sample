@@ -8,5 +8,5 @@ It also includes some animations.
 [Original repo](https://github.com/Psycho-Pirate/Ammu-Nation)
 
 ## Sympy PRs
-### Language: Python, RST
+### Language: Python, RST, Latex
 This contains some of the contributions and bug fixes I did for [SYMPY](https://github.com/sympy/sympy).
