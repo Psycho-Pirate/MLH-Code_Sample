@@ -1,8 +1,8 @@
 ///////////////////////////////////////////////////////////////////
-//                      					 					 //
-//			A Project on Gun Shop management system        	 	 //
-//							   By -: Prakhar Saxena	 			 //
-//																 //
+//                       					 //
+//	A Project on Gun Shop management system        	 	 //
+//			   By -: Prakhar Saxena	 	         //
+//								 //
 ///////////////////////////////////////////////////////////////////
 
 
@@ -1224,54 +1224,9 @@ void clip()
 	}
 }
 
-
-//////////////////////// WELCOME PAGE ////////////////////////
-/*void welcome()
-{
-	int gdriver=DETECT,gmode;
-	initgraph(&gdriver,&gmode,"C:\\turboc3\\bgi");
-	{
-		setbkcolor(BLACK);
-		settextstyle(2,0,9) ;
-		setcolor(WHITE);
-		outtextxy(40,100,"WELCOME TO...");
-		settextstyle(4,0,7);
-
-		setcolor(GREEN);
-		outtextxy(30,150,"A");
-		outtextxy(475,150,"N");
-		this_thread::sleep_for (chrono::milliseconds(300));
-		outtextxy(80,150,"M");
-		outtextxy(440,150,"O");
-		this_thread::sleep_for (chrono::milliseconds(300));
-		outtextxy(130,150,"M");
-		outtextxy(405,150,"I");
-		this_thread::sleep_for (chrono::milliseconds(300));
-		outtextxy(180,150,"U");
-		outtextxy(370,150,"T");
-		this_thread::sleep_for (chrono::milliseconds(300));
-		outtextxy(230,150,"-");
-		outtextxy(325,150,"A");
-		this_thread::sleep_for (chrono::milliseconds(300));
-		outtextxy(280,150,"N");
-
-		settextstyle(6,0,4);
-		outtextxy(10,275,"BUY THEM CHEAP....BURY THEM DEEP");
-		settextstyle(7,0,4);
-		setcolor(WHITE);
-		outtextxy(30,350,"OUT OF AMMO ??? VISIT US");
-		outtextxy(100,400,"CONTACT::011-2337823");
-	}
-	getch();
-	closegraph();
-
-}*/
-
 //////////////////////// VOID MAIN ////////////////////////
 int main()
 {
-	//system("clear");
-	//welcome();
 	l_menu();
 }
 
