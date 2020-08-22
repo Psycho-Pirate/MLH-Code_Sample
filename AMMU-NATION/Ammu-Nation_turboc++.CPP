@@ -1,8 +1,8 @@
 ///////////////////////////////////////////////////////////////////
-//                      					 					 //
-//			A Project on Gun Shop management system        	 	 //
-//							   By -: Prakhar Saxena	 			 //
-//																 //
+//                					 	 //
+//	A Project on Gun Shop management system        	 	 //
+//			   By -: Prakhar Saxena	 		 //
+//								 //
 ///////////////////////////////////////////////////////////////////
 
 
@@ -1214,11 +1214,6 @@ void welcome()
 	initgraph(&gdriver,&gmode,"C:\\turboc3\\bgi");
 	{
 		setbkcolor(BLACK);
-		//settextstyle(9,0,9) ;
-
-		//setcolor(WHITE);
-
-		//outtextxy(30,100,"WELCOME TO...");
 		settextstyle(0,0,7);
 
 		setcolor(LIGHTGREEN);
