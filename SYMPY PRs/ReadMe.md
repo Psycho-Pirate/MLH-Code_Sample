@@ -1,6 +1,6 @@
 # *SYMPY PRs*
-## Language: Python, RST
-This contains some of the contributions and bug fixes I did for SYMPY.
+## Language: Python, RST, Latex
+This contains some of the contributions and bug fixes I did for [SYMPY](https://github.com/sympy/sympy).
 
 ## Merged PRs:
 [19015](https://github.com/sympy/sympy/pull/19015) - Fixed inconsistencies with draw function
